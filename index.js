@@ -1,3 +1,5 @@
+var bcrypt = require('bcrypt');
+
 var config = {
 	SALT_WORK_FACTOR: 10
 };
